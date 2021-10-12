@@ -29,3 +29,5 @@ Best Practice: Keep this branch upto date with the Dev branch.
 
 Any merge should be done only to the Dev branch and every merge should be performed after reviewing the pull request. 
 
+The commit section will now reflect on the flow of commits for this line. 
+
